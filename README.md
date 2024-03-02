@@ -1,5 +1,3 @@
-> ⚠️ This project has been archived. please visit the [Wormhole Docs](https://docs.wormhole.com/)
-
 # The xDapp Book
 How to get started building cross chain applications with Wormhole
 
